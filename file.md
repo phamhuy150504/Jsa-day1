@@ -9,4 +9,9 @@
 - git commit -m "this commit"
 - git push
 
-- code header cua minh 
+- code header cua Minh 
+
+- git branch <ten_nhanh> (create new branch)
+- git checkout <ten_nhanh> (switch branch top <ten_nhanh>)
+
+keywords: git rebase, git status, git log... 
